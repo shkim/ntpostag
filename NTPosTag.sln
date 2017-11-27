@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NTPosTag", "ntpostag\NTPosTag.vcxproj", "{782FDA48-0154-46AE-A97E-7D557D510D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		NoUnitTest|x64 = NoUnitTest|x64
+		NoUnitTest|x86 = NoUnitTest|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Debug|x64.ActiveCfg = Debug|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Debug|x64.Build.0 = Debug|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Debug|x86.ActiveCfg = Debug|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Debug|x86.Build.0 = Debug|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.NoUnitTest|x64.ActiveCfg = NoUnitTest|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.NoUnitTest|x64.Build.0 = NoUnitTest|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.NoUnitTest|x86.ActiveCfg = NoUnitTest|Win32
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.NoUnitTest|x86.Build.0 = NoUnitTest|Win32
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Release|x64.ActiveCfg = Release|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Release|x64.Build.0 = Release|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Release|x86.ActiveCfg = Debug|x64
+		{782FDA48-0154-46AE-A97E-7D557D510D3E}.Release|x86.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEED8130-04A6-4FBA-B6F1-BF7337CC4BCB}
+	EndGlobalSection
+EndGlobal
